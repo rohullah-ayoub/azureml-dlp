@@ -1,4 +1,4 @@
-# Azure Machine Learning Data Loss Prevention (Private Preview)
+# Azure Machine Learning Data Loss Prevention (Testing)
 
 ## Enable Your Subscription for Private Preview
 Submit [this form](https://forms.office.com/r/1TraBek7LV) to allowlist your subscription(s).
